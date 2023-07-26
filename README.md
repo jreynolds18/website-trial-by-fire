@@ -1,0 +1,1 @@
+This is my first website without direct guidance from the labs and direction from Flatiron School. I have learned quite a bit about JavaScript, HTML, CSS, and manipulating the DOM. 
